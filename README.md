@@ -134,7 +134,9 @@
 
 <details>
   <summary>🎉 <b>Fun Fact</b></summary>
-  - The first software bug was a literal moth stuck in a computer relay, discovered by Grace Hopper in 1947!
+  <ul>
+    <li>The first software bug was a literal moth stuck in a computer relay, discovered by Grace Hopper in 1947!</li>
+  </ul>
 </details>
 
 ---
