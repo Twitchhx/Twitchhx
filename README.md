@@ -1,6 +1,6 @@
 <!-- Profile README for Twitchhx -->
 
-<h1 align="center">Hi there, I'm Omar ElNahtawy 👋</h1>
+<h1 align="center">Hi there, I'm Omar Asharf ElNahtawy 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="wave" />
@@ -87,6 +87,9 @@
 - 🏢 **Performly HR System**  
   Modern HR management suite built for efficiency and scale.
 
+- 🧠 **VR Psychiatry Counseling**
+  A VR Psychiatry Counseling system that offers an immersive virtual reality experience.
+
 - 🚲 **Self-Driving Bike Cluster**  
   A research-driven project exploring autonomous vehicle clusters.
 
@@ -110,8 +113,6 @@
 
 - 🚗 **Automotive Embedded System**
   An Arduino-based car with sensors for key detection, ignition, locking, and remote control.
-  
-- 🔐 **Internet & Network Security Seminar**
 
 ---
 
@@ -133,10 +134,7 @@
 
 <details>
   <summary>🎉 <b>Fun Fact</b></summary>
-  <ul>
-    <li>I took a semester abroad in Berlin 🇩🇪 and traveled the world!</li>
-    <li>Football enthusiast ⚽</li>
-  </ul>
+  - The first software bug was a literal moth stuck in a computer relay, discovered by Grace Hopper in 1947!
 </details>
 
 ---
