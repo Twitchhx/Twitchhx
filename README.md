@@ -40,7 +40,7 @@
 
 ## 💼 Experience
 
-- Software Engineer, Solace Technologies  Jan 2025 – Present
+- **Software Engineer, Solace Technologies**  Jan 2025 – Present
 
   <ul>
     <li>Designed, developed, and maintained high-performance software applications, ensuring scalability and reliability across diverse platforms.</li>
@@ -51,7 +51,7 @@
   </ul>
 
 
-- Systems & IT Engineer, Egyptian Armed Forces  Oct 2023 – Oct 2025
+- **Systems & IT Engineer, Egyptian Armed Forces**  Oct 2023 – Oct 2025
 
   <ul>
     <li>Oversaw and maintained IT systems and network infrastructure in a military medical facility.</li>
@@ -61,9 +61,9 @@
   </ul>
 
 
-- Internet & Network Security Seminar  Feb 2023 – June 2023
+- **Internet & Network Security Seminar**  Feb 2023 – June 2023
 
-- Cybersecurity Engineering Intern, SIGMA IT  Sept 2022 – Oct 2022
+- **Cybersecurity Engineering Intern, SIGMA IT**  Sept 2022 – Oct 2022
 
   <ul>
     <li>Gained hands-on experience in cybersecurity modules including cyber threat intelligence, network security, penetration testing, incident response, digital forensics, malware analysis, and ethical hacking.</li>
@@ -72,7 +72,7 @@
   </ul>
 
 
-- Backend Engineering Intern, Self Driving Bike Cluster  Aug 2021 – Sept 2021
+- **Backend Engineering Intern, Self Driving Bike Cluster**  Aug 2021 – Sept 2021
   <ul>
     <li>Utilized Agile Methodology with sprints and daily meetings.</li>
     <li>Developed a payment database and optimized backend code.</li>
