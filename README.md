@@ -42,48 +42,42 @@
 
 - Software Engineer, Solace Technologies  Jan 2025 – Present
 
--- Designed, developed, and maintained high-performance software applications, ensuring scalability and reliability across diverse platforms.
-
--- Collaborated with cross-functional teams to analyze requirements, architect solutions, and deliver features aligned with business objectives.
-
--- Implemented efficient, reusable, and testable code, adhering to best practices and industry standards for software development.
-
--- Contributed to agile development processes, participating in sprint planning, code reviews, and continuous integration/deployment pipelines.
-
--- Integrated APIs and third-party services to enhance application functionality and streamline user experiences.
-
+  <ul>
+    <li>Designed, developed, and maintained high-performance software applications, ensuring scalability and reliability across diverse platforms.</li>
+    <li>Collaborated with cross-functional teams to analyze requirements, architect solutions, and deliver features aligned with business objectives.</li>
+    <li>Implemented efficient, reusable, and testable code, adhering to best practices and industry standards for software development.</li>
+    <li>Contributed to agile development processes, participating in sprint planning, code reviews, and continuous integration/deployment pipelines.</li>
+    <li>Integrated APIs and third-party services to enhance application functionality and streamline user experiences.</li>
+  </ul>
 
 
 - Systems & IT Engineer, Egyptian Armed Forces  Oct 2023 – Oct 2025
 
--- Oversaw and maintained IT systems and network infrastructure in a military medical facility.
-
--- Provided technical support and troubleshooting for hospital systems and personnel.
-
--- Coordinated with internal teams to ensure data security, system uptime, and compliance.
-
--- Continued independent study in web frameworks (e.g., React, Node.js, Angular, Spring Boot) and DevOps fundamentals.
+  <ul>
+    <li>Oversaw and maintained IT systems and network infrastructure in a military medical facility.</li>
+    <li>Provided technical support and troubleshooting for hospital systems and personnel.</li>
+    <li>Coordinated with internal teams to ensure data security, system uptime, and compliance.</li>
+    <li>Continued independent study in web frameworks (e.g., React, Node.js, Angular, Spring Boot) and DevOps fundamentals.</li>
+  </ul>
 
 
 - Internet & Network Security Seminar  Feb 2023 – June 2023
 
 - Cybersecurity Engineering Intern, SIGMA IT  Sept 2022 – Oct 2022
 
--- Gained hands-on experience in cybersecurity modules including cyber threat intelligence, network security, penetration testing, incident response, digital forensics, malware analysis, and ethical hacking.
-
--- Worked on preserving sensitive information from attacks, deletion, and illegal access across the internet and devices.
-
--- Engaged in real-world applications and tasks to develop practical cybersecurity skills.
-
+  <ul>
+    <li>Gained hands-on experience in cybersecurity modules including cyber threat intelligence, network security, penetration testing, incident response, digital forensics, malware analysis, and ethical hacking.</li>
+    <li>Worked on preserving sensitive information from attacks, deletion, and illegal access across the internet and devices.</li>
+    <li>Engaged in real-world applications and tasks to develop practical cybersecurity skills.</li>
+  </ul>
 
 
 - Backend Engineering Intern, Self Driving Bike Cluster  Aug 2021 – Sept 2021
-
--- Utilized Agile Methodology with sprints and daily meetings.
-
--- Developed a payment database and optimized backend code.
-
--- Employed technologies: Python, MongoDB, Heroku, Flask, and PyMongo.
+  <ul>
+    <li>Utilized Agile Methodology with sprints and daily meetings.</li>
+    <li>Developed a payment database and optimized backend code.</li>
+    <li>Employed technologies: Python, MongoDB, Heroku, Flask, and PyMongo.</li>
+  </ul>
 
 ---
 
