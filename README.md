@@ -1,6 +1,6 @@
 <!-- Profile README for Twitchhx -->
 
-<h1 align="center">Hi there, I'm Omar Asharf ElNahtawy 👋</h1>
+<h1 align="center">Hi there, I'm Omar Ashraf ElNahtawy 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="wave" />
