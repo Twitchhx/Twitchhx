@@ -128,7 +128,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Twitchhx&show_icons=true&theme=tokyonight&hide_border=true" alt="Twitchhx's GitHub Stats" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=Twitchhx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%"/>
 </p>
 
 ---
