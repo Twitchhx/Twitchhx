@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Software Engineer** with a BSc in Computer Science and Engineering  
-- 🚀 1-year internship experience + 1-year as a Software Engineer at [Solace Technologies](https://solace.com/)
+- 🚀 1-year internship experience, 2 years as a Systems & IT Engineer at [Egyptian Armed Forces] + 1 year as a Software Engineer at [Solace Technologies](https://solace.com/)
 - 🌍 Took a semester abroad in Berlin and traveled the world!
 - ⚽ Football enthusiast & lifelong learner
 
